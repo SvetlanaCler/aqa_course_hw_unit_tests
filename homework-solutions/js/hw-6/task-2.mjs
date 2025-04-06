@@ -13,7 +13,9 @@
   const myPizzasT2 = ['Peperoni', 'Caprichosa', 'Diablo', '4 cheeses', 'hawai'];
 */
 
+let test = 1;
+
 let resultUnique;
-let resultNull;
+let resultNull; 
 
 export { resultNull, resultUnique };
